@@ -1,0 +1,6 @@
+﻿Order_no,Item_code,Order_qty,Rule xuất hàng
+1,SA,27,FIFO
+2,BH,157,FEFO
+3,E2,75,LIFO
+4,YAA,15,"theo expiry date chỉ định
+2020-11-01 0:00:00"
