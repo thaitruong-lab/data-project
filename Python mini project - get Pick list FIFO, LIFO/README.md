@@ -9,8 +9,9 @@ The challenger requests to:
 [See detail](https://docs.google.com/spreadsheets/d/1IDIVTf36hZqxltg_MYOjsWvSmDxp1pb4gkAzJI64eaU/edit?fbclid=IwAR1NOS6M5FLrUMD2MU60OLllT97n9ezj4axKOXl5Dweghx7s9_zcgkrVoA4#gid=843431074)
 
 Base on that, I upgraded a bit and created a class to do the job
-- Using csv file, pandas dataframe to handle tabular data
-- Add case_no and created_at info into pick list
+- Use csv file
+- Use pandas dataframe to handle tabular data
+- Add <code>case_no</code> and <code>created_at</code> to get detail information for pick_list
 - Funtion to check item code and quantity
 - Funtion to pick by order
 - And many other things to make the code easy to understing I hope :))))))
