@@ -27,8 +27,8 @@ If not, it will show you what was wrong
 
 After picking, you can get:
 - <code>stockMgt.pick_list</code>: pick list for the sales order you put in <code>pickBySalesOrder</code>
-- <code>stockMgt.pick_history</code>
-- <code>stockMgt.remaining_report</code>
+- <code>stockMgt.pick_history</code>: picking history
+- <code>stockMgt.remaining_report</code>: view current stock
 
 See doc string for more infor
 
