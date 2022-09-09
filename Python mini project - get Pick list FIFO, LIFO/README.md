@@ -6,7 +6,7 @@ The challenger requests to:
 - Create pick list from stock data; and a sales orders data which may includes 4 types of pick method [FIFO, LIFO, FEFO, by EXP date]
 - Create a file which contains remaining stock so that could be used for the next pick
 
-[See detail](https://docs.google.com/spreadsheets/d/1IDIVTf36hZqxltg_MYOjsWvSmDxp1pb4gkAzJI64eaU/edit?fbclid=IwAR1NOS6M5FLrUMD2MU60OLllT97n9ezj4axKOXl5Dweghx7s9_zcgkrVoA4#gid=843431074)
+[See details](https://docs.google.com/spreadsheets/d/1IDIVTf36hZqxltg_MYOjsWvSmDxp1pb4gkAzJI64eaU/edit?fbclid=IwAR1NOS6M5FLrUMD2MU60OLllT97n9ezj4axKOXl5Dweghx7s9_zcgkrVoA4#gid=843431074)
 
 Base on that, I upgraded a bit and created a class to do the job
 - Use csv file
