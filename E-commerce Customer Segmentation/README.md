@@ -19,7 +19,7 @@ In this project, I use E-commerce transactions data (contains ~500.000 records) 
 
 #### 2. Python
 - Perform data cleaning, EDA
-- Use KMeans to classify customer to k=5 cluster
+- Use KMeans to classify customer to k=5 clusters
 - Visualize 3D plot
 
 ## Author
