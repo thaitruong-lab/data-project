@@ -1,6 +1,6 @@
 # Python mini project
 
-This is my small project which I using python so solve an online challenge
+This is my mini project which I using python so solve an online challenge
 
 The challenger requests to:
 - Create pick list from stock data; and a sales orders data which may includes 4 types of pick method [FIFO, LIFO, FEFO, by EXP date]
