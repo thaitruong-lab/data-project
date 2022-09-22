@@ -3,7 +3,7 @@
 
 ### Dataset  
 In this project, I use E-commerce transactions data (contains ~500.000 records) to perform segmentation with RFM metrics  
-**Data scoure**: Actual transactions from UK retailer publiced on [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data) by CARRIE
+**Data scoure**: Actual transactions from UK retailer published on [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data) by CARRIE
 
 ### Languages  
 #### 1. SQL - BigQuery
