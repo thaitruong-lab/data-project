@@ -20,7 +20,7 @@ In this project, I use E-commerce transactions data (contains ~500.000 records) 
 #### 2. Python
 - Perform data cleaning, EDA
 - Use KMeans to classify customer to k=5 clusters
-- Visualize 3D plot
+- Visualize 3D plot  
 Notebook: [E-commerce - RFM segmentation using Kmeans.ipynb](https://github.com/thaitruong-lab/data-analyst/blob/main/E-commerce%20Customer%20Segmentation/E-commerce%20-%20RFM%20segmentation%20using%20Kmeans.ipynb)
 ## Author
 
