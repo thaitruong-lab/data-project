@@ -22,7 +22,7 @@ First you need to initialize the object
 
 Then when you want a picklist, just put in a sales orders  
 <code>stockMgt.pickBySalesOrder([your_sales_order_path])</code>  
-If all the item_code are true, and the remaing quality and fullfill the whole order, you can get a picklist result  
+If all the item_code are true, and the remaing quality can fullfill the whole order, you can get a picklist result  
 If not, it will show you what was wrong  
 
 After picking, you can get:
